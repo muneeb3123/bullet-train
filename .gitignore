@@ -81,4 +81,5 @@ dump.rdb
 # Ignore output from rails-erd
 erd.pdf
 
+
 # 🚅 add your files to ignore here.

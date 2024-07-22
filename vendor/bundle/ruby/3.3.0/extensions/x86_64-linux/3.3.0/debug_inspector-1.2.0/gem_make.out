@@ -1,0 +1,18 @@
+current directory: /home/muneeb/coursia/vendor/bundle/ruby/3.3.0/gems/debug_inspector-1.2.0/ext/debug_inspector
+/home/muneeb/.rbenv/versions/3.3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/muneeb/coursia/vendor/bundle/ruby/3.3.0/gems/debug_inspector-1.2.0/ext/debug_inspector
+make DESTDIR\= sitearchdir\=./.gem.20240722-126669-u18tcg sitelibdir\=./.gem.20240722-126669-u18tcg clean
+
+current directory: /home/muneeb/coursia/vendor/bundle/ruby/3.3.0/gems/debug_inspector-1.2.0/ext/debug_inspector
+make DESTDIR\= sitearchdir\=./.gem.20240722-126669-u18tcg sitelibdir\=./.gem.20240722-126669-u18tcg
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/muneeb/coursia/vendor/bundle/ruby/3.3.0/gems/debug_inspector-1.2.0/ext/debug_inspector
+make DESTDIR\= sitearchdir\=./.gem.20240722-126669-u18tcg sitelibdir\=./.gem.20240722-126669-u18tcg install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20240722-126669-u18tcg
+
+current directory: /home/muneeb/coursia/vendor/bundle/ruby/3.3.0/gems/debug_inspector-1.2.0/ext/debug_inspector
+make DESTDIR\= sitearchdir\=./.gem.20240722-126669-u18tcg sitelibdir\=./.gem.20240722-126669-u18tcg clean

@@ -1,0 +1,19 @@
+current directory: /home/muneeb/coursia/vendor/bundle/ruby/3.3.0/gems/xxhash-0.5.0/ext/xxhash
+/home/muneeb/.rbenv/versions/3.3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/muneeb/coursia/vendor/bundle/ruby/3.3.0/gems/xxhash-0.5.0/ext/xxhash
+make DESTDIR\= sitearchdir\=./.gem.20240722-126669-gmxxua sitelibdir\=./.gem.20240722-126669-gmxxua clean
+
+current directory: /home/muneeb/coursia/vendor/bundle/ruby/3.3.0/gems/xxhash-0.5.0/ext/xxhash
+make DESTDIR\= sitearchdir\=./.gem.20240722-126669-gmxxua sitelibdir\=./.gem.20240722-126669-gmxxua
+compiling libxxhash.c
+compiling xxhash.c
+linking shared-object xxhash/xxhash.so
+
+current directory: /home/muneeb/coursia/vendor/bundle/ruby/3.3.0/gems/xxhash-0.5.0/ext/xxhash
+make DESTDIR\= sitearchdir\=./.gem.20240722-126669-gmxxua sitelibdir\=./.gem.20240722-126669-gmxxua install
+/usr/bin/install -c -m 0755 xxhash.so ./.gem.20240722-126669-gmxxua/xxhash
+
+current directory: /home/muneeb/coursia/vendor/bundle/ruby/3.3.0/gems/xxhash-0.5.0/ext/xxhash
+make DESTDIR\= sitearchdir\=./.gem.20240722-126669-gmxxua sitelibdir\=./.gem.20240722-126669-gmxxua clean
